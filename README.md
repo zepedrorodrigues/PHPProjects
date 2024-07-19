@@ -1,2 +1,2 @@
-# PHPProjects
+# PHP Projects
 To learn PHP
